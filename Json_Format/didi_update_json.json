@@ -1,0 +1,33 @@
+
+UpdateCtrl
+// V22031100
+{"PbVersion":"0.0.4","TargetVersion":"FWDDZ1-OB-APP-V22031100","FirmwareMd5":"0750c6fa14bfb7ea54794ec7bc727f68","FirmwareSize":"277182","UpdateUrl":"http://58.208.216.144:8195/2022031300demote2022031100/dfota_final_DIDI_B_DIDI_B_20220313155413_242021.bin?expire=1632551100&signiture=QvehoJ3MT_EFAwhSvLhsbXgPzWzefiFkbQVJEAfvjJA=","UpdateType":0,"Time":1631698105352,"TrackId":26}
+
+// urlerror
+{"PbVersion":"0.0.4","TargetVersion":"FWDDZ1-OB-APP-V22031100","FirmwareMd5":"0750c6fa14bfb7ea54794ec7bc727f68","FirmwareSize":"277182","UpdateUrl":"http://5.208.216.144:8195/2022031300demote2022031100/dfota_final_DIDI_B_DIDI_B_20220313155413_242021.bin?expire=1632551100&signiture=QvehoJ3MT_EFAwhSvLhsbXgPzWzefiFkbQVJEAfvjJA=","UpdateType":0,"Time":1631698105352,"TrackId":26}
+
+// md5error
+{"PbVersion":"0.0.4","TargetVersion":"FWDDZ1-OB-APP-V22031100","FirmwareMd5":"0750c6fa1dfsf7ea54794ec7bc727f68","FirmwareSize":"277182","UpdateUrl":"http://58.208.216.144:8195/2022031300demote2022031100/dfota_final_DIDI_B_DIDI_B_20220313155413_242021.bin?expire=1632551100&signiture=QvehoJ3MT_EFAwhSvLhsbXgPzWzefiFkbQVJEAfvjJA=","UpdateType":0,"Time":1631698105352,"TrackId":26}
+
+// chicunerror
+{"PbVersion":"0.0.4","TargetVersion":"FWDDZ1-OB-APP-V22031100","FirmwareMd5":"0750c6fa14bfb7ea54794ec7bc727f68","FirmwareSize":"45555","UpdateUrl":"http://58.208.216.144:8195/2022031300demote2022031100/dfota_final_DIDI_B_DIDI_B_20220313155413_242021.bin?expire=1632551100&signiture=QvehoJ3MT_EFAwhSvLhsbXgPzWzefiFkbQVJEAfvjJA=","UpdateType":0,"Time":1631698105352,"TrackId":26}
+
+//V22031300
+{"PbVersion":"0.0.4","TargetVersion":"FWDDZ1-OB-APP-V22031300","FirmwareMd5":"80269658f28696c0564f469ca9b5ef78","FirmwareSize":"277182","UpdateUrl":"http://58.208.216.144:8195/2022031100up2022031300/dfota_final_DIDI_B_DIDI_B_20220313155152_227075.bin?expire=1632551100&signiture=QvehoJ3MT_EFAwhSvLhsbXgPzWzefiFkbQVJEAfvjJA=","UpdateType":0,"Time":1631698105352,"TrackId":26}
+
+
+//o.d
+{"PbVersion":"0.0.4","TargetVersion":"FWDDZ1-OB-FPGA-V21102003","FirmwareMd5":"f189371d306f7364db56cdf6d1f790e8","FirmwareSize":"362606","UpdateUrl":"http://58.208.216.144:8195/FWDDZ1-OB-FPGA-V21102003.ACG","UpdateType":1,"Time":1631698105352,"TrackId":26}
+
+
+//new
+{"PbVersion":"0.0.4","TargetVersion":"FWDDZ1-OB-FPGA-V21110803","FirmwareMd5":"757082d81ec11e18c3318feda9e96513","FirmwareSize":"359996","UpdateUrl":"http://58.208.216.144:8195/FWDDZ1-OB-FPGA-V21110803.ACG","UpdateType":1,"Time":1631698105352,"TrackId":26}
+
+// urlerror
+{"PbVersion":"0.0.4","TargetVersion":"FWDDZ1-OB-FPGA-V21102003","FirmwareMd5":"f189371d306f7364db56cdf6d1f790e8","FirmwareSize":"362606","UpdateUrl":"http://5.208.216.144:8195/FWDDZ1-OB-FPGA-V21102003.ACG","UpdateType":1,"Time":1631698105352,"TrackId":26}
+
+// md5error
+{"PbVersion":"0.0.4","TargetVersion":"FWDDZ1-OB-FPGA-V21102003","FirmwareMd5":"f189371d3364db56cdf6d1f790e8","FirmwareSize":"362606","UpdateUrl":"http://58.208.216.144:8195/FWDDZ1-OB-FPGA-V21102003.ACG","UpdateType":1,"Time":1631698105352,"TrackId":26}
+
+// chicunerror
+{"PbVersion":"0.0.4","TargetVersion":"FWDDZ1-OB-FPGA-V21102003","FirmwareMd5":"f189371d306f7364db56cdf6d1f790e8","FirmwareSize":"15616","UpdateUrl":"http://58.208.216.144:8195/FWDDZ1-OB-FPGA-V21102003.ACG","UpdateType":1,"Time":1631698105352,"TrackId":26}
