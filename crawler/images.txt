@@ -1,0 +1,29 @@
+function downloadQrCodeByBase64(dataUrl, fileName) {
+  const img = new Image();
+  img.onload = () => {
+    const canvas = document.createElement('canvas');
+    canvas.width = img.width;
+    canvas.height = img.height;
+    const ctx = canvas.getContext('2d');
+    ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+    // 将画布内容转换为base64
+    const base64 = canvas.toDataURL();
+    const a = document.createElement('a');
+    a.href = base64;
+    a.download = fileName;
+    // 触发a链接点击事件，浏览器开始下载文件
+    a.click();
+  };
+  img.src = dataUrl;
+  // 必须设置，否则canvas中的内容无法转换为base64
+  img.setAttribute('crossOrigin', 'Anonymous');
+}
+
+var l = document.images.length;
+for (var i = 0; i < l;i++)
+{
+ll = document.images[i];
+lll = ll.src;
+downloadQrCodeByBase64(lll, lll)
+console.log(lll);
+}
